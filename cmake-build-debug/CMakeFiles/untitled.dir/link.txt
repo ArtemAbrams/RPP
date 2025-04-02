@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/untitled.dir/openmp.c.o CMakeFiles/untitled.dir/seq.c.o CMakeFiles/untitled.dir/mpi.c.o CMakeFiles/untitled.dir/openmp_2.c.o -o untitled
